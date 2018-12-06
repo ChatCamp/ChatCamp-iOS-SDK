@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = "ChatCamp"
-s.version = "4.2.1"
+s.version = "4.2.4"
 s.summary = "ChatCamp iOS SDK"
 s.description  = "Chat SDK and Messaging API for iOS Apps"
 s.license = "Commercial"
